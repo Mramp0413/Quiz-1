@@ -2,8 +2,8 @@
 
 // VARIABLES
 $base: aliceblue;
-$baseFont: "sans-seriff";
-$leftMargin: 10px;
+$baseFont: "sans-serif";
+$lmargin: 10px;
 $padding: 10px;
 
 
@@ -49,12 +49,12 @@ h2 {
 }
 
 h3 {
-    margin-left: $margin;
+    margin-left: $lmargin;
     color:#58a0e0
 }
 
 ul{
-    margin-left: $margin;
+    margin-left: $lmargin;
 }
 
 p{
